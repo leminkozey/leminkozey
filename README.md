@@ -1,20 +1,36 @@
-# 💫 About Me:
-Hi, I’m Manu <br>I’m currently training as an IT specialist in application development and I’m just getting started on my programming journey 💻. <br>In my free time, I work on my own home lab  and enjoy experimenting with new technologies 🛠️
+# Manu · `leminkozey`
 
-I’m currently working on some useful websites for my local network ♟️
+I build software that runs locally and treats data sparingly: desktop apps,
+self-hosted tools, and tooling around AI coding agents. Currently training as an
+IT specialist in application development.
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/npsqKeePXZ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact@leminkozey-me) 
+**privacy-first · local-first · no forced cloud**
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=leminkozey&theme=dark&hide_border=false)
+## Currently building
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+**PermitVault** - a time-locked secret vault for AI coding agents. Tauri v2, Rust + React.
+· [permitvault.de](https://permitvault.de)
+
+## Public projects
+
+- **[claude-menubar](https://github.com/leminkozey/claude-menubar)** - native macOS menubar
+  app for Claude usage and spend tracking. SwiftUI, no dependencies.
+  · [claudemenubar.leminkozey.me](https://claudemenubar.leminkozey.me)
+- **[browser-picker](https://github.com/leminkozey/browser-picker)** - click any element in
+  Safari and stream selector / HTML / styles straight into Claude Code.
+- **[Netzwerk-Manager](https://github.com/leminkozey/Netzwerk-Manager)** - self-hosted network
+  dashboard (monitoring, Wake-on-LAN, web terminal), driven by a single config file.
+- **[help-book](https://github.com/leminkozey/help-book)** - drop-in documentation book for
+  web projects. · [live demo](https://leminkozey.github.io/help-book/help/)
+
+## Stack
+
+`TypeScript` · `Node` · `React` · `Rust / Tauri` · `Swift` · `Python` · `Raspberry Pi`
+
+## Contact
+
+[leminkozey.me](https://leminkozey.me) · [contact@leminkozey.me](mailto:contact@leminkozey.me)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MK-snpz&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![leminkozey's GitHub stats](https://github-readme-stats.vercel.app/api?username=leminkozey&show_icons=true&hide_border=true&theme=transparent)
