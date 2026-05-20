@@ -30,7 +30,3 @@ IT specialist in application development.
 ## Contact
 
 [leminkozey.me](https://leminkozey.me) · [contact@leminkozey.me](mailto:contact@leminkozey.me)
-
----
-
-![leminkozey's GitHub stats](https://github-readme-stats.vercel.app/api?username=leminkozey&show_icons=true&hide_border=true&theme=transparent)
