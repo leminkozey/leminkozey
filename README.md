@@ -20,6 +20,9 @@ IT specialist in application development.
   Safari and stream selector / HTML / styles straight into Claude Code.
 - **[Netzwerk-Manager](https://github.com/leminkozey/Netzwerk-Manager)** - self-hosted network
   dashboard (monitoring, Wake-on-LAN, web terminal), driven by a single config file.
+- **[Lemin-kanban](https://github.com/leminkozey/Lemin-kanban)** - minimal, well-designed
+  kanban board for personal task management. Next.js, TypeScript, SQLite.
+  · [leminkanban.de](https://leminkanban.de)
 - **[help-book](https://github.com/leminkozey/help-book)** - drop-in documentation book for
   web projects. · [live demo](https://leminkozey.github.io/help-book/help/)
 
