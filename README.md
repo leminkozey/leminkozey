@@ -13,6 +13,10 @@ IT specialist in application development.
 
 ## Public projects
 
+- **[oneiro](https://github.com/leminkozey/oneiro)** - a nightly reviewer for Claude Code. It
+  reads the day's sessions, finds where the agent kept misunderstanding you, and queues fixes to
+  your CLAUDE.md and memory behind a review ui. Bun + TypeScript, zero dependencies.
+  · [oneiro.leminkozey.me](https://oneiro.leminkozey.me)
 - **[claude-menubar](https://github.com/leminkozey/claude-menubar)** - native macOS menubar
   app for Claude usage and spend tracking. SwiftUI, no dependencies.
   · [claudemenubar.leminkozey.me](https://claudemenubar.leminkozey.me)
