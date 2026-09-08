@@ -9,11 +9,11 @@ IT specialist in application development.
 ## Currently building
 
 **PermitVault** - a time-locked secret vault for AI coding agents. Tauri v2, Rust + React.
-· [permitvault.de](https://permitvault.de)
+· [permitvault preview](https://leminkozey.me/permitvault)
 
-**Veil** - a privacy proxy for external AI APIs. Detects and replaces sensitive data before it leaves your system, then restores it locally in the response.
+**Veil** - a privacy proxy for external AI APIs. Detects and replaces sensitive data before it leaves your system, then restores it locally in the response. · [Veil](https://leminkozey.me/veil)
 
-**Skira** - a family of small, local NLP models for detecting personally identifiable information and quasi-identifiers. Built for fast, private, on-device inference. · Current generation: Skira6
+**Skira** - a family of small, local NLP models for detecting personally identifiable information and quasi-identifiers. Built for fast, private, on-device inference. · Current generation: Skira6 [Skira6 out now!](https://leminkozey.me/skira)
 
 ## Stack
 
