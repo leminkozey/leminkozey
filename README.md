@@ -13,7 +13,7 @@ IT specialist in application development.
 
 **Veil** - a privacy proxy for external AI APIs. Detects and replaces sensitive data before it leaves your system, then restores it locally in the response. · [Veil](https://leminkozey.me/veil)
 
-**Skira** - a family of small, local NLP models for detecting personally identifiable information and quasi-identifiers. Built for fast, private, on-device inference. · Current generation: Skira6 [Skira6 out now!](https://leminkozey.me/skira)
+**Skira** - a family of small, local NLP models for detecting personally identifiable information and quasi-identifiers. Built for fast, private, on-device inference. · Current generation: Skira6 [Skira6 out now!](https://leminkozey.me/skira) New research generation: NivoraAplha7 
 
 ## Stack
 
