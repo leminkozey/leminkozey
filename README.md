@@ -14,6 +14,7 @@ IT specialist in application development.
 **Veil** - a privacy proxy for external AI APIs. Detects and replaces sensitive data before it leaves your system, then restores it locally in the response. · [Veil](https://leminkozey.me/veil)
 
 **Velora** - a family of small, local NLP models for detecting personally identifiable information and quasi-identifiers. Built for fast, private, on-device inference. New research generation: NivoraAplha7 
+
 **Velora CLI** - a local-first CLI for installing and running Velora models on your device. Interactive setup and a local API bring private, on-device anonymization to your tools and workflows.
 · [Velora CLI](https://github.com/ThemisticLabs/velora-cli)
 
